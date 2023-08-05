@@ -1,4 +1,5 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/l74jpb2rthd8jwko/branch/master?svg=true)](https://ci.appveyor.com/project/TatianaRudikova/basicsofautomation-web/branch/master)
+[![Build status](https://ci.appveyor.com/api/projects/status/s1vdox2bomb29hr2?svg=true)](https://ci.appveyor.com/project/malushkru0878/cardorders-l99j7)
+
 
 # Домашнее задание к занятию «2.1. Тестирование веб-интерфейсов»
 
